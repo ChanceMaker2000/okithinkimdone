@@ -1,0 +1,24 @@
+body {
+	background-image: linear-gradient(#c21500, #ffc500, #d53369, #7a2828, #f857a6, #ff5858, #7fd1b9, #533a7b, #4b244a, #86a873)
+}
+
+.h1 {
+	text-align: center;
+}
+
+#txt {
+	font-family: 'Fascinate', cursive;
+}
+
+div {
+	transition: all 2s ease;
+	border: 5px solid red;
+}
+div:hover {
+	border: 5px solid green;
+}
+</div>
+
+.class {
+	font-family: Times New Roman;
+}
